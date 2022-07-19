@@ -1,0 +1,24 @@
+
+
+#---------------------------------------------UNIFESSPA----------------------------------------------------
+#-------------------------------VISUALIZADOR DE FFT EM TEMPO REAL------------------------------------------
+
+#Classe para gerar arquivo de audio pela as amostrar e Cálculo da FFT
+
+#Trabalho de Processamento Digital de Sinais         Engenharia da Computção 
+#Professora: Leslye Estefania Castro Eras
+
+#Discentes:
+#1. Alaim de Jesus Leão Costa - 201940601001
+#2. Klauber Araujo Sousa - 201940601010
+#3. Manoel Malon Costa de Moura - 201940601025
+
+#Para instalar basta digitar na pasta inicial: pip install -r requisitos.txt
+#Para executar o software é necessário instalar os seguintes módulos de python:
+
+
+numpy==1.18.4
+matplotlib==3.2.1
+scipy==1.4.1
+pygame==1.9.6
+PyAudio==0.2.11
